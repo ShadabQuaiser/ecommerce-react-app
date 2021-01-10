@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "gentle@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "mobiles",
+      "stock": 98,
+      "price": 15000,
+      "shortDesc": "mobile sortDesc sortDesc sortDesc sortDesc sortDesc ",
+      "description": "mobile product discription product discription product discription product discription product discription product discription "
+    },
+    {
+      "name": "laptops",
+      "stock": 200,
+      "price": 50000,
+      "shortDesc": "laptop sortDesc sortDesc sortDesc sortDesc sortDesc ",
+      "description": "laptop product discription product discription product discription product discription product discription product discription "
+    },
+    {
+      "name": "shirts",
+      "stock": 150,
+      "price": 500,
+      "shortDesc": "shirt sortDesc sortDesc sortDesc sortDesc sortDesc ",
+      "description": "shirt product discription product discription product discription product discription product discription product discription "
+    },
+    {
+      "name": "jeans",
+      "stock": 48,
+      "price": 800,
+      "shortDesc": "jeans sortDesc sortDesc sortDesc sortDesc sortDesc ",
+      "description": "jeans product discription product discription product discription product discription product discription product discription "
+    }
+  ]
+}
